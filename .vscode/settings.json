@@ -1,0 +1,13 @@
+{
+  // 全局缩进设置
+  "editor.tabSize": 4,
+  "editor.insertSpaces": true,
+  "editor.detectIndentation": false,
+
+  // 针对 Python 的专用设置
+  "[python]": {
+      "editor.defaultFormatter": "ms-python.autopep8",  // 使用 Python 扩展的格式化器
+      "editor.formatOnSave": true,                   // 保存时自动格式化
+      "editor.tabSize": 4
+  }
+}
