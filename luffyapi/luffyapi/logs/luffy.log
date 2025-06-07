@@ -1,0 +1,1283 @@
+INFO-----2025-03-06 15:42:27,624 autoreload 16653 8737212480 Watching for file changes with StatReloader
+INFO-----2025-03-06 15:42:42,795 autoreload 16653 8737212480 /Users/sunjie/Documents/sunj/AI/sunjPy/luffyapi/luffyapi/settings/dev.py changed, reloading.
+INFO-----2025-03-06 15:42:43,067 autoreload 16918 8737212480 Watching for file changes with StatReloader
+INFO-----2025-03-06 15:42:45,610 basehttp 16918 6171734016 "GET / HTTP/1.1" 200 12068
+WARNING-----2025-03-06 15:42:46,213 log 16918 6171734016 Not Found: /files/test_files/file_txt.txt
+WARNING-----2025-03-06 15:42:46,215 log 16918 6188560384 Not Found: /files/test_files/file_none
+WARNING-----2025-03-06 15:42:46,217 log 16918 6205386752 Not Found: /files/test_imgs/img_jpg.jpg
+WARNING-----2025-03-06 15:42:46,217 basehttp 16918 6171734016 "GET /files/test_files/file_txt.txt HTTP/1.1" 404 2264
+WARNING-----2025-03-06 15:42:46,220 log 16918 6222213120 Not Found: /files/test_imgs/img_png.png
+WARNING-----2025-03-06 15:42:46,220 basehttp 16918 6188560384 "GET /files/test_files/file_none HTTP/1.1" 404 2255
+WARNING-----2025-03-06 15:42:46,223 log 16918 6255865856 Not Found: /files/test_files/pdf.pdf
+WARNING-----2025-03-06 15:42:46,224 log 16918 6171734016 Not Found: /files/test_files/docx.docx
+WARNING-----2025-03-06 15:42:46,224 basehttp 16918 6205386752 "GET /files/test_imgs/img_jpg.jpg HTTP/1.1" 404 2258
+WARNING-----2025-03-06 15:42:46,226 log 16918 6239039488 Not Found: /files/test_imgs/img_gif.gif
+WARNING-----2025-03-06 15:42:46,227 log 16918 6188560384 Not Found: /files/test_files/doc.doc
+WARNING-----2025-03-06 15:42:46,227 basehttp 16918 6222213120 "GET /files/test_imgs/img_png.png HTTP/1.1" 404 2258
+WARNING-----2025-03-06 15:42:46,228 basehttp 16918 6255865856 "GET /files/test_files/pdf.pdf HTTP/1.1" 404 2249
+WARNING-----2025-03-06 15:42:46,228 basehttp 16918 6171734016 "GET /files/test_files/docx.docx HTTP/1.1" 404 2255
+WARNING-----2025-03-06 15:42:46,228 basehttp 16918 6239039488 "GET /files/test_imgs/img_gif.gif HTTP/1.1" 404 2258
+WARNING-----2025-03-06 15:42:46,229 basehttp 16918 6188560384 "GET /files/test_files/doc.doc HTTP/1.1" 404 2249
+INFO-----2025-03-06 16:26:53,210 autoreload 16918 8737212480 /Users/sunjie/Documents/sunj/AI/sunjPy/luffyapi/luffyapi/settings/dev.py changed, reloading.
+INFO-----2025-03-06 16:26:53,484 autoreload 58726 8737212480 Watching for file changes with StatReloader
+INFO-----2025-03-06 16:29:49,374 autoreload 58726 8737212480 /Users/sunjie/Documents/sunj/AI/sunjPy/luffyapi/luffyapi/settings/dev.py changed, reloading.
+INFO-----2025-03-06 16:29:49,647 autoreload 62065 8737212480 Watching for file changes with StatReloader
+INFO-----2025-03-06 16:31:00,370 autoreload 62065 8737212480 /Users/sunjie/Documents/sunj/AI/sunjPy/luffyapi/luffyapi/settings/dev.py changed, reloading.
+INFO-----2025-03-06 17:22:51,472 autoreload 3564 8479492160 Watching for file changes with StatReloader
+INFO-----2025-03-06 17:24:40,577 autoreload 3564 8479492160 /Users/sunjie/Documents/sunj/AI/sunjPy/luffyapi/luffyapi/settings/dev.py changed, reloading.
+INFO-----2025-03-06 17:24:40,720 autoreload 4220 8479492160 Watching for file changes with StatReloader
+INFO-----2025-03-06 17:25:55,508 autoreload 4220 8479492160 /Users/sunjie/Documents/sunj/AI/sunjPy/luffyapi/luffyapi/settings/__init__.py changed, reloading.
+INFO-----2025-03-06 17:25:55,870 autoreload 4768 8479492160 Watching for file changes with StatReloader
+INFO-----2025-03-06 17:26:02,222 basehttp 4768 6193475584 "GET / HTTP/1.1" 200 12068
+WARNING-----2025-03-06 17:26:02,769 log 4768 6210301952 Not Found: /files/test_files/file_none
+WARNING-----2025-03-06 17:26:02,773 log 4768 6243954688 Not Found: /files/test_imgs/img_png.png
+WARNING-----2025-03-06 17:26:02,774 log 4768 6193475584 Not Found: /files/test_files/file_txt.txt
+WARNING-----2025-03-06 17:26:02,776 log 4768 6277607424 Not Found: /files/test_files/pdf.pdf
+WARNING-----2025-03-06 17:26:02,777 log 4768 6227128320 Not Found: /files/test_imgs/img_jpg.jpg
+WARNING-----2025-03-06 17:26:02,778 log 4768 6260781056 Not Found: /files/test_imgs/img_gif.gif
+WARNING-----2025-03-06 17:26:02,778 basehttp 4768 6243954688 "GET /files/test_imgs/img_png.png HTTP/1.1" 404 2258
+WARNING-----2025-03-06 17:26:02,779 basehttp 4768 6210301952 "GET /files/test_files/file_none HTTP/1.1" 404 2255
+WARNING-----2025-03-06 17:26:02,779 basehttp 4768 6193475584 "GET /files/test_files/file_txt.txt HTTP/1.1" 404 2264
+WARNING-----2025-03-06 17:26:02,779 basehttp 4768 6277607424 "GET /files/test_files/pdf.pdf HTTP/1.1" 404 2249
+WARNING-----2025-03-06 17:26:02,780 basehttp 4768 6227128320 "GET /files/test_imgs/img_jpg.jpg HTTP/1.1" 404 2258
+WARNING-----2025-03-06 17:26:02,780 basehttp 4768 6260781056 "GET /files/test_imgs/img_gif.gif HTTP/1.1" 404 2258
+WARNING-----2025-03-06 17:26:02,783 log 4768 6243954688 Not Found: /files/test_files/docx.docx
+WARNING-----2025-03-06 17:26:02,785 log 4768 6210301952 Not Found: /files/test_files/doc.doc
+WARNING-----2025-03-06 17:26:02,788 basehttp 4768 6243954688 "GET /files/test_files/docx.docx HTTP/1.1" 404 2255
+WARNING-----2025-03-06 17:26:02,788 basehttp 4768 6210301952 "GET /files/test_files/doc.doc HTTP/1.1" 404 2249
+WARNING-----2025-03-06 17:26:02,918 log 4768 6210301952 Not Found: /favicon.ico
+WARNING-----2025-03-06 17:26:02,919 basehttp 4768 6210301952 "GET /favicon.ico HTTP/1.1" 404 2210
+INFO-----2025-03-06 17:35:31,108 autoreload 18207 8479492160 Watching for file changes with StatReloader
+INFO-----2025-03-06 17:35:55,721 basehttp 18207 6125744128 "GET / HTTP/1.1" 200 12068
+WARNING-----2025-03-06 17:35:56,272 log 18207 6159396864 Not Found: /files/test_imgs/img_jpg.jpg
+WARNING-----2025-03-06 17:35:56,274 log 18207 6125744128 Not Found: /files/test_files/file_txt.txt
+WARNING-----2025-03-06 17:35:56,275 log 18207 6142570496 Not Found: /files/test_files/file_none
+WARNING-----2025-03-06 17:35:56,276 log 18207 6176223232 Not Found: /files/test_imgs/img_png.png
+WARNING-----2025-03-06 17:35:56,277 basehttp 18207 6159396864 "GET /files/test_imgs/img_jpg.jpg HTTP/1.1" 404 2258
+WARNING-----2025-03-06 17:35:56,279 log 18207 6193049600 Not Found: /files/test_imgs/img_gif.gif
+WARNING-----2025-03-06 17:35:56,279 basehttp 18207 6125744128 "GET /files/test_files/file_txt.txt HTTP/1.1" 404 2264
+WARNING-----2025-03-06 17:35:56,280 log 18207 6209875968 Not Found: /files/test_files/pdf.pdf
+WARNING-----2025-03-06 17:35:56,280 basehttp 18207 6142570496 "GET /files/test_files/file_none HTTP/1.1" 404 2255
+WARNING-----2025-03-06 17:35:56,281 basehttp 18207 6193049600 "GET /files/test_imgs/img_gif.gif HTTP/1.1" 404 2258
+WARNING-----2025-03-06 17:35:56,281 basehttp 18207 6176223232 "GET /files/test_imgs/img_png.png HTTP/1.1" 404 2258
+WARNING-----2025-03-06 17:35:56,283 log 18207 6159396864 Not Found: /files/test_files/docx.docx
+WARNING-----2025-03-06 17:35:56,284 log 18207 6125744128 Not Found: /files/test_files/doc.doc
+WARNING-----2025-03-06 17:35:56,284 basehttp 18207 6209875968 "GET /files/test_files/pdf.pdf HTTP/1.1" 404 2249
+WARNING-----2025-03-06 17:35:56,285 basehttp 18207 6159396864 "GET /files/test_files/docx.docx HTTP/1.1" 404 2255
+WARNING-----2025-03-06 17:35:56,285 basehttp 18207 6125744128 "GET /files/test_files/doc.doc HTTP/1.1" 404 2249
+INFO-----2025-03-06 17:36:44,072 basehttp 18207 6226702336 "GET / HTTP/1.1" 200 12068
+WARNING-----2025-03-06 17:36:44,615 log 18207 6226702336 Not Found: /files/test_files/file_txt.txt
+WARNING-----2025-03-06 17:36:44,618 log 18207 6243528704 Not Found: /files/test_files/file_none
+WARNING-----2025-03-06 17:36:44,618 basehttp 18207 6226702336 "GET /files/test_files/file_txt.txt HTTP/1.1" 404 2264
+WARNING-----2025-03-06 17:36:44,620 log 18207 6260355072 Not Found: /files/test_imgs/img_jpg.jpg
+WARNING-----2025-03-06 17:36:44,621 log 18207 6277181440 Not Found: /files/test_imgs/img_png.png
+WARNING-----2025-03-06 17:36:44,621 basehttp 18207 6243528704 "GET /files/test_files/file_none HTTP/1.1" 404 2255
+WARNING-----2025-03-06 17:36:44,623 log 18207 6294007808 Not Found: /files/test_imgs/img_gif.gif
+WARNING-----2025-03-06 17:36:44,624 log 18207 6310834176 Not Found: /files/test_files/pdf.pdf
+WARNING-----2025-03-06 17:36:44,625 log 18207 6226702336 Not Found: /files/test_files/docx.docx
+WARNING-----2025-03-06 17:36:44,625 basehttp 18207 6260355072 "GET /files/test_imgs/img_jpg.jpg HTTP/1.1" 404 2258
+WARNING-----2025-03-06 17:36:44,626 basehttp 18207 6277181440 "GET /files/test_imgs/img_png.png HTTP/1.1" 404 2258
+WARNING-----2025-03-06 17:36:44,628 log 18207 6243528704 Not Found: /files/test_files/doc.doc
+WARNING-----2025-03-06 17:36:44,628 basehttp 18207 6310834176 "GET /files/test_files/pdf.pdf HTTP/1.1" 404 2249
+WARNING-----2025-03-06 17:36:44,628 basehttp 18207 6294007808 "GET /files/test_imgs/img_gif.gif HTTP/1.1" 404 2258
+WARNING-----2025-03-06 17:36:44,628 basehttp 18207 6226702336 "GET /files/test_files/docx.docx HTTP/1.1" 404 2255
+WARNING-----2025-03-06 17:36:44,629 basehttp 18207 6243528704 "GET /files/test_files/doc.doc HTTP/1.1" 404 2249
+WARNING-----2025-03-06 17:36:44,777 log 18207 6243528704 Not Found: /favicon.ico
+WARNING-----2025-03-06 17:36:44,777 basehttp 18207 6243528704 "GET /favicon.ico HTTP/1.1" 404 2210
+INFO-----2025-03-06 17:39:52,332 basehttp 18207 6125744128 "GET / HTTP/1.1" 200 12068
+WARNING-----2025-03-06 17:39:52,872 log 18207 6209875968 Not Found: /files/test_imgs/img_jpg.jpg
+WARNING-----2025-03-06 17:39:52,874 log 18207 6159396864 Not Found: /files/test_files/file_none
+WARNING-----2025-03-06 17:39:52,875 log 18207 6176223232 Not Found: /files/test_imgs/img_gif.gif
+WARNING-----2025-03-06 17:39:52,876 log 18207 6125744128 Not Found: /files/test_files/file_txt.txt
+WARNING-----2025-03-06 17:39:52,877 log 18207 6193049600 Not Found: /files/test_imgs/img_png.png
+WARNING-----2025-03-06 17:39:52,879 log 18207 6142570496 Not Found: /files/test_files/pdf.pdf
+WARNING-----2025-03-06 17:39:52,879 basehttp 18207 6209875968 "GET /files/test_imgs/img_jpg.jpg HTTP/1.1" 404 2258
+WARNING-----2025-03-06 17:39:52,879 basehttp 18207 6159396864 "GET /files/test_files/file_none HTTP/1.1" 404 2255
+WARNING-----2025-03-06 17:39:52,879 basehttp 18207 6176223232 "GET /files/test_imgs/img_gif.gif HTTP/1.1" 404 2258
+WARNING-----2025-03-06 17:39:52,880 basehttp 18207 6193049600 "GET /files/test_imgs/img_png.png HTTP/1.1" 404 2258
+WARNING-----2025-03-06 17:39:52,880 basehttp 18207 6125744128 "GET /files/test_files/file_txt.txt HTTP/1.1" 404 2264
+WARNING-----2025-03-06 17:39:52,880 basehttp 18207 6142570496 "GET /files/test_files/pdf.pdf HTTP/1.1" 404 2249
+WARNING-----2025-03-06 17:39:52,883 log 18207 6209875968 Not Found: /files/test_files/docx.docx
+WARNING-----2025-03-06 17:39:52,884 log 18207 6159396864 Not Found: /files/test_files/doc.doc
+WARNING-----2025-03-06 17:39:52,884 basehttp 18207 6159396864 "GET /files/test_files/doc.doc HTTP/1.1" 404 2249
+WARNING-----2025-03-06 17:39:52,884 basehttp 18207 6209875968 "GET /files/test_files/docx.docx HTTP/1.1" 404 2255
+ERROR-----2025-03-06 17:40:09,649 exception 18207 6327660544 Invalid HTTP_HOST header: 'sunj.com:8000'. You may need to add 'sunj.com' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Users/sunjie/Documents/sunj/AI/sunjPy/luffyapi/sunjPyEnv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/sunjie/Documents/sunj/AI/sunjPy/luffyapi/sunjPyEnv/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/sunjie/Documents/sunj/AI/sunjPy/luffyapi/sunjPyEnv/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/Users/sunjie/Documents/sunj/AI/sunjPy/luffyapi/sunjPyEnv/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'sunj.com:8000'. You may need to add 'sunj.com' to ALLOWED_HOSTS.
+WARNING-----2025-03-06 17:40:09,664 log 18207 6327660544 Bad Request: /
+WARNING-----2025-03-06 17:40:09,664 basehttp 18207 6327660544 "GET / HTTP/1.1" 400 70783
+ERROR-----2025-03-06 17:40:09,871 exception 18207 6327660544 Invalid HTTP_HOST header: 'sunj.com:8000'. You may need to add 'sunj.com' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Users/sunjie/Documents/sunj/AI/sunjPy/luffyapi/sunjPyEnv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/sunjie/Documents/sunj/AI/sunjPy/luffyapi/sunjPyEnv/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/sunjie/Documents/sunj/AI/sunjPy/luffyapi/sunjPyEnv/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/Users/sunjie/Documents/sunj/AI/sunjPy/luffyapi/sunjPyEnv/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'sunj.com:8000'. You may need to add 'sunj.com' to ALLOWED_HOSTS.
+WARNING-----2025-03-06 17:40:09,881 log 18207 6327660544 Bad Request: /
+WARNING-----2025-03-06 17:40:09,882 basehttp 18207 6327660544 "GET / HTTP/1.1" 400 70509
+ERROR-----2025-03-06 17:40:19,703 exception 18207 6327660544 Invalid HTTP_HOST header: 'sunj.com:8000'. You may need to add 'sunj.com' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Users/sunjie/Documents/sunj/AI/sunjPy/luffyapi/sunjPyEnv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/sunjie/Documents/sunj/AI/sunjPy/luffyapi/sunjPyEnv/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/sunjie/Documents/sunj/AI/sunjPy/luffyapi/sunjPyEnv/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/Users/sunjie/Documents/sunj/AI/sunjPy/luffyapi/sunjPyEnv/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'sunj.com:8000'. You may need to add 'sunj.com' to ALLOWED_HOSTS.
+WARNING-----2025-03-06 17:40:19,717 log 18207 6327660544 Bad Request: /
+WARNING-----2025-03-06 17:40:19,718 basehttp 18207 6327660544 "GET / HTTP/1.1" 400 70646
+ERROR-----2025-03-06 17:40:36,203 exception 18207 6327660544 Invalid HTTP_HOST header: 'sunj.com:8000'. You may need to add 'sunj.com' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Users/sunjie/Documents/sunj/AI/sunjPy/luffyapi/sunjPyEnv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/sunjie/Documents/sunj/AI/sunjPy/luffyapi/sunjPyEnv/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/sunjie/Documents/sunj/AI/sunjPy/luffyapi/sunjPyEnv/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/Users/sunjie/Documents/sunj/AI/sunjPy/luffyapi/sunjPyEnv/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'sunj.com:8000'. You may need to add 'sunj.com' to ALLOWED_HOSTS.
+WARNING-----2025-03-06 17:40:36,215 log 18207 6327660544 Bad Request: /
+WARNING-----2025-03-06 17:40:36,216 basehttp 18207 6327660544 "GET / HTTP/1.1" 400 70509
+INFO-----2025-03-06 17:41:28,716 autoreload 18207 8479492160 /Users/sunjie/Documents/sunj/AI/sunjPy/luffyapi/luffyapi/settings/dev.py changed, reloading.
+INFO-----2025-03-06 17:41:28,982 autoreload 24155 8479492160 Watching for file changes with StatReloader
+INFO-----2025-03-06 17:41:53,290 autoreload 24155 8479492160 /Users/sunjie/Documents/sunj/AI/sunjPy/luffyapi/luffyapi/settings/dev.py changed, reloading.
+INFO-----2025-03-06 17:41:53,475 autoreload 24471 8479492160 Watching for file changes with StatReloader
+INFO-----2025-03-06 17:41:59,587 autoreload 24471 8479492160 /Users/sunjie/Documents/sunj/AI/sunjPy/luffyapi/luffyapi/settings/dev.py changed, reloading.
+INFO-----2025-03-06 17:41:59,761 autoreload 24629 8479492160 Watching for file changes with StatReloader
+INFO-----2025-03-06 17:42:04,535 basehttp 24629 6201552896 "GET / HTTP/1.1" 200 12068
+WARNING-----2025-03-06 17:42:05,070 log 24629 6201552896 Not Found: /files/test_files/file_txt.txt
+WARNING-----2025-03-06 17:42:05,072 log 24629 6235205632 Not Found: /files/test_files/file_none
+WARNING-----2025-03-06 17:42:05,073 log 24629 6218379264 Not Found: /files/test_imgs/img_gif.gif
+WARNING-----2025-03-06 17:42:05,074 basehttp 24629 6201552896 "GET /files/test_files/file_txt.txt HTTP/1.1" 404 2263
+WARNING-----2025-03-06 17:42:05,076 log 24629 6252032000 Not Found: /files/test_files/pdf.pdf
+WARNING-----2025-03-06 17:42:05,076 basehttp 24629 6235205632 "GET /files/test_files/file_none HTTP/1.1" 404 2254
+WARNING-----2025-03-06 17:42:05,078 log 24629 6268858368 Not Found: /files/test_imgs/img_png.png
+WARNING-----2025-03-06 17:42:05,080 log 24629 6285684736 Not Found: /files/test_imgs/img_jpg.jpg
+WARNING-----2025-03-06 17:42:05,080 basehttp 24629 6218379264 "GET /files/test_imgs/img_gif.gif HTTP/1.1" 404 2257
+WARNING-----2025-03-06 17:42:05,082 log 24629 6201552896 Not Found: /files/test_files/docx.docx
+WARNING-----2025-03-06 17:42:05,082 basehttp 24629 6252032000 "GET /files/test_files/pdf.pdf HTTP/1.1" 404 2248
+WARNING-----2025-03-06 17:42:05,084 log 24629 6235205632 Not Found: /files/test_files/doc.doc
+WARNING-----2025-03-06 17:42:05,084 basehttp 24629 6268858368 "GET /files/test_imgs/img_png.png HTTP/1.1" 404 2257
+WARNING-----2025-03-06 17:42:05,084 basehttp 24629 6285684736 "GET /files/test_imgs/img_jpg.jpg HTTP/1.1" 404 2257
+WARNING-----2025-03-06 17:42:05,084 basehttp 24629 6201552896 "GET /files/test_files/docx.docx HTTP/1.1" 404 2254
+WARNING-----2025-03-06 17:42:05,085 basehttp 24629 6235205632 "GET /files/test_files/doc.doc HTTP/1.1" 404 2248
+WARNING-----2025-03-06 17:42:05,237 log 24629 6235205632 Not Found: /favicon.ico
+WARNING-----2025-03-06 17:42:05,237 basehttp 24629 6235205632 "GET /favicon.ico HTTP/1.1" 404 2209
+INFO-----2025-03-06 17:50:09,203 autoreload 31929 8479492160 Watching for file changes with StatReloader
+INFO-----2025-03-06 17:53:15,897 autoreload 31929 8479492160 /Users/sunjie/Documents/sunj/AI/sunjPy/luffyapi/luffyapi/settings/dev.py changed, reloading.
+INFO-----2025-03-06 17:53:16,137 autoreload 35570 8479492160 Watching for file changes with StatReloader
+INFO-----2025-03-06 17:53:49,505 autoreload 35570 8479492160 /Users/sunjie/Documents/sunj/AI/sunjPy/luffyapi/luffyapi/settings/dev.py changed, reloading.
+INFO-----2025-03-06 17:53:49,715 autoreload 36128 8479492160 Watching for file changes with StatReloader
+INFO-----2025-03-06 17:53:58,910 autoreload 36128 8479492160 /Users/sunjie/Documents/sunj/AI/sunjPy/luffyapi/luffyapi/settings/dev.py changed, reloading.
+INFO-----2025-03-06 17:53:59,132 autoreload 36299 8479492160 Watching for file changes with StatReloader
+INFO-----2025-03-08 11:03:36,195 autoreload 83725 8479492160 Watching for file changes with StatReloader
+INFO-----2025-03-08 11:07:25,277 autoreload 83725 8479492160 /Users/sunjie/Documents/sunj/AI/sunjPy/luffyapi/luffyapi/settings/dev.py changed, reloading.
+INFO-----2025-03-08 11:07:25,566 autoreload 86946 8479492160 Watching for file changes with StatReloader
+INFO-----2025-03-08 11:17:08,918 autoreload 95061 8479492160 Watching for file changes with StatReloader
+INFO-----2025-03-08 11:17:48,316 autoreload 97011 8479492160 Watching for file changes with StatReloader
+INFO-----2025-03-08 11:18:43,874 autoreload 97011 8479492160 /Users/sunjie/Documents/sunj/AI/sunjPy/luffyapi/luffyapi/settings/dev.py changed, reloading.
+INFO-----2025-03-08 11:18:44,087 autoreload 98115 8479492160 Watching for file changes with StatReloader
+INFO-----2025-03-08 11:19:02,346 autoreload 98115 8479492160 /Users/sunjie/Documents/sunj/AI/sunjPy/luffyapi/luffyapi/settings/dev.py changed, reloading.
+INFO-----2025-03-08 11:19:02,562 autoreload 98465 8479492160 Watching for file changes with StatReloader
+INFO-----2025-03-08 11:19:06,723 autoreload 98465 8479492160 /Users/sunjie/Documents/sunj/AI/sunjPy/luffyapi/luffyapi/settings/dev.py changed, reloading.
+INFO-----2025-03-08 11:19:06,932 autoreload 98562 8479492160 Watching for file changes with StatReloader
+INFO-----2025-03-08 11:19:34,259 autoreload 98562 8479492160 /Users/sunjie/Documents/sunj/AI/sunjPy/luffyapi/luffyapi/settings/dev.py changed, reloading.
+INFO-----2025-03-08 11:19:34,472 autoreload 99077 8479492160 Watching for file changes with StatReloader
+INFO-----2025-03-08 11:20:31,033 autoreload 99077 8479492160 /Users/sunjie/Documents/sunj/AI/sunjPy/luffyapi/luffyapi/settings/dev.py changed, reloading.
+INFO-----2025-03-08 11:20:31,284 autoreload 996 8479492160 Watching for file changes with StatReloader
+INFO-----2025-03-08 11:21:03,665 autoreload 996 8479492160 /Users/sunjie/Documents/sunj/AI/sunjPy/luffyapi/luffyapi/settings/dev.py changed, reloading.
+INFO-----2025-03-08 11:21:03,893 autoreload 1817 8479492160 Watching for file changes with StatReloader
+INFO-----2025-03-10 13:39:45,977 autoreload 46744 8479492160 Watching for file changes with StatReloader
+INFO-----2025-03-10 13:40:16,332 autoreload 46744 8479492160 /Users/sunjie/Documents/sunj/AI/sunjPy/luffyapi/luffyapi/settings/dev.py changed, reloading.
+INFO-----2025-03-10 13:40:16,506 autoreload 47252 8479492160 Watching for file changes with StatReloader
+INFO-----2025-03-10 13:42:05,548 autoreload 47252 8479492160 /Users/sunjie/Documents/sunj/AI/sunjPy/luffyapi/luffyapi/settings/dev.py changed, reloading.
+INFO-----2025-03-10 13:42:05,742 autoreload 49044 8479492160 Watching for file changes with StatReloader
+ERROR-----2025-03-10 13:42:15,178 exception 49044 6131019776 Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+WARNING-----2025-03-10 13:42:15,188 log 49044 6131019776 Bad Request: /
+WARNING-----2025-03-10 13:42:15,188 basehttp 49044 6131019776 "GET / HTTP/1.1" 400 73347
+ERROR-----2025-03-10 13:42:15,353 exception 49044 6131019776 Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+WARNING-----2025-03-10 13:42:15,367 log 49044 6131019776 Bad Request: /
+WARNING-----2025-03-10 13:42:15,367 basehttp 49044 6131019776 "GET / HTTP/1.1" 400 73073
+ERROR-----2025-03-10 13:42:15,914 exception 49044 6147846144 Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+ERROR-----2025-03-10 13:42:15,914 exception 49044 6131019776 Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+ERROR-----2025-03-10 13:42:15,915 exception 49044 6164672512 Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+ERROR-----2025-03-10 13:42:15,915 exception 49044 6181498880 Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+ERROR-----2025-03-10 13:42:15,916 exception 49044 6198325248 Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+ERROR-----2025-03-10 13:42:15,917 exception 49044 6215151616 Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+WARNING-----2025-03-10 13:42:15,926 log 49044 6147846144 Bad Request: /files/test_files/file_txt.txt
+WARNING-----2025-03-10 13:42:15,940 log 49044 6131019776 Bad Request: /files/test_files/file_none
+WARNING-----2025-03-10 13:42:15,943 basehttp 49044 6131019776 "GET /files/test_files/file_none HTTP/1.1" 400 73099
+WARNING-----2025-03-10 13:42:15,948 log 49044 6164672512 Bad Request: /files/test_imgs/img_jpg.jpg
+WARNING-----2025-03-10 13:42:15,948 basehttp 49044 6147846144 "GET /files/test_files/file_txt.txt HTTP/1.1" 400 73132
+ERROR-----2025-03-10 13:42:15,949 exception 49044 6231977984 Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+WARNING-----2025-03-10 13:42:15,953 log 49044 6181498880 Bad Request: /files/test_imgs/img_png.png
+WARNING-----2025-03-10 13:42:15,953 basehttp 49044 6164672512 "GET /files/test_imgs/img_jpg.jpg HTTP/1.1" 400 73110
+WARNING-----2025-03-10 13:42:15,958 log 49044 6198325248 Bad Request: /files/test_imgs/img_gif.gif
+ERROR-----2025-03-10 13:42:15,958 exception 49044 6131019776 Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+WARNING-----2025-03-10 13:42:15,959 basehttp 49044 6181498880 "GET /files/test_imgs/img_png.png HTTP/1.1" 400 73110
+WARNING-----2025-03-10 13:42:15,966 log 49044 6215151616 Bad Request: /files/test_files/pdf.pdf
+WARNING-----2025-03-10 13:42:15,975 basehttp 49044 6198325248 "GET /files/test_imgs/img_gif.gif HTTP/1.1" 400 73110
+WARNING-----2025-03-10 13:42:15,981 log 49044 6131019776 Bad Request: /files/test_files/doc.doc
+WARNING-----2025-03-10 13:42:15,982 basehttp 49044 6215151616 "GET /files/test_files/pdf.pdf HTTP/1.1" 400 73077
+WARNING-----2025-03-10 13:42:15,987 log 49044 6231977984 Bad Request: /files/test_files/docx.docx
+WARNING-----2025-03-10 13:42:15,988 basehttp 49044 6131019776 "GET /files/test_files/doc.doc HTTP/1.1" 400 73077
+WARNING-----2025-03-10 13:42:15,988 basehttp 49044 6231977984 "GET /files/test_files/docx.docx HTTP/1.1" 400 73099
+ERROR-----2025-03-10 13:43:46,679 exception 49044 6131019776 Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+WARNING-----2025-03-10 13:43:46,696 log 49044 6131019776 Bad Request: /
+WARNING-----2025-03-10 13:43:46,696 basehttp 49044 6131019776 "GET / HTTP/1.1" 400 73210
+ERROR-----2025-03-10 13:43:46,895 exception 49044 6147846144 Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+ERROR-----2025-03-10 13:43:46,895 exception 49044 6131019776 Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+ERROR-----2025-03-10 13:43:46,896 exception 49044 6164672512 Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+ERROR-----2025-03-10 13:43:46,896 exception 49044 13035925504 Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+ERROR-----2025-03-10 13:43:46,897 exception 49044 13052751872 Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+ERROR-----2025-03-10 13:43:46,897 exception 49044 13069578240 Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+WARNING-----2025-03-10 13:43:46,915 log 49044 6131019776 Bad Request: /files/test_files/file_none
+WARNING-----2025-03-10 13:43:46,923 log 49044 6147846144 Bad Request: /files/test_files/file_txt.txt
+WARNING-----2025-03-10 13:43:46,927 log 49044 6164672512 Bad Request: /files/test_imgs/img_jpg.jpg
+WARNING-----2025-03-10 13:43:46,929 basehttp 49044 6131019776 "GET /files/test_files/file_none HTTP/1.1" 400 73099
+WARNING-----2025-03-10 13:43:46,935 log 49044 13035925504 Bad Request: /files/test_imgs/img_png.png
+WARNING-----2025-03-10 13:43:46,935 basehttp 49044 6147846144 "GET /files/test_files/file_txt.txt HTTP/1.1" 400 73132
+WARNING-----2025-03-10 13:43:46,942 basehttp 49044 13035925504 "GET /files/test_imgs/img_png.png HTTP/1.1" 400 73110
+WARNING-----2025-03-10 13:43:46,943 log 49044 13052751872 Bad Request: /files/test_imgs/img_gif.gif
+WARNING-----2025-03-10 13:43:46,944 basehttp 49044 6164672512 "GET /files/test_imgs/img_jpg.jpg HTTP/1.1" 400 73110
+ERROR-----2025-03-10 13:43:46,944 exception 49044 6131019776 Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+ERROR-----2025-03-10 13:43:46,945 exception 49044 6147846144 Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+WARNING-----2025-03-10 13:43:46,951 basehttp 49044 13052751872 "GET /files/test_imgs/img_gif.gif HTTP/1.1" 400 73110
+WARNING-----2025-03-10 13:43:46,952 log 49044 13069578240 Bad Request: /files/test_files/pdf.pdf
+WARNING-----2025-03-10 13:43:46,958 basehttp 49044 13069578240 "GET /files/test_files/pdf.pdf HTTP/1.1" 400 73077
+WARNING-----2025-03-10 13:43:46,964 log 49044 6147846144 Bad Request: /files/test_files/doc.doc
+WARNING-----2025-03-10 13:43:46,969 log 49044 6131019776 Bad Request: /files/test_files/docx.docx
+WARNING-----2025-03-10 13:43:46,969 basehttp 49044 6131019776 "GET /files/test_files/docx.docx HTTP/1.1" 400 73099
+WARNING-----2025-03-10 13:43:46,969 basehttp 49044 6147846144 "GET /files/test_files/doc.doc HTTP/1.1" 400 73077
+INFO-----2025-03-10 13:44:56,624 autoreload 49044 8479492160 /Users/sunjie/Documents/sunj/AI/sunjPy/luffyapi/luffyapi/settings/dev.py changed, reloading.
+INFO-----2025-03-10 13:44:56,805 autoreload 51962 8479492160 Watching for file changes with StatReloader
+INFO-----2025-03-10 13:45:16,320 autoreload 51962 8479492160 /Users/sunjie/Documents/sunj/AI/sunjPy/luffyapi/luffyapi/settings/dev.py changed, reloading.
+INFO-----2025-03-10 13:45:16,516 autoreload 52251 8479492160 Watching for file changes with StatReloader
+INFO-----2025-03-10 13:46:43,422 autoreload 52251 8479492160 /Users/sunjie/Documents/sunj/AI/sunjPy/luffyapi/luffyapi/settings/dev.py changed, reloading.
+INFO-----2025-03-10 13:46:43,603 autoreload 53516 8479492160 Watching for file changes with StatReloader
+ERROR-----2025-03-10 13:48:22,399 exception 53516 6133182464 Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+WARNING-----2025-03-10 13:48:22,423 log 53516 6133182464 Bad Request: /
+WARNING-----2025-03-10 13:48:22,423 basehttp 53516 6133182464 "GET / HTTP/1.1" 400 73061
+ERROR-----2025-03-10 13:48:23,001 exception 53516 6150008832 Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+ERROR-----2025-03-10 13:48:23,002 exception 53516 6133182464 Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+ERROR-----2025-03-10 13:48:23,003 exception 53516 6166835200 Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+ERROR-----2025-03-10 13:48:23,006 exception 53516 6183661568 Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+ERROR-----2025-03-10 13:48:23,007 exception 53516 6200487936 Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+ERROR-----2025-03-10 13:48:23,012 exception 53516 6217314304 Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+WARNING-----2025-03-10 13:48:23,020 log 53516 6150008832 Bad Request: /files/test_files/file_txt.txt
+WARNING-----2025-03-10 13:48:23,023 basehttp 53516 6150008832 "GET /files/test_files/file_txt.txt HTTP/1.1" 400 73120
+WARNING-----2025-03-10 13:48:23,030 log 53516 6166835200 Bad Request: /files/test_imgs/img_jpg.jpg
+WARNING-----2025-03-10 13:48:23,034 log 53516 6133182464 Bad Request: /files/test_files/file_none
+ERROR-----2025-03-10 13:48:23,035 exception 53516 6150008832 Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+WARNING-----2025-03-10 13:48:23,035 basehttp 53516 6166835200 "GET /files/test_imgs/img_jpg.jpg HTTP/1.1" 400 73098
+WARNING-----2025-03-10 13:48:23,039 log 53516 6183661568 Bad Request: /files/test_imgs/img_png.png
+WARNING-----2025-03-10 13:48:23,039 basehttp 53516 6133182464 "GET /files/test_files/file_none HTTP/1.1" 400 73087
+WARNING-----2025-03-10 13:48:23,044 log 53516 6217314304 Bad Request: /files/test_files/pdf.pdf
+ERROR-----2025-03-10 13:48:23,047 exception 53516 6234140672 Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+WARNING-----2025-03-10 13:48:23,048 basehttp 53516 6183661568 "GET /files/test_imgs/img_png.png HTTP/1.1" 400 73098
+WARNING-----2025-03-10 13:48:23,052 log 53516 6200487936 Bad Request: /files/test_imgs/img_gif.gif
+WARNING-----2025-03-10 13:48:23,052 basehttp 53516 6217314304 "GET /files/test_files/pdf.pdf HTTP/1.1" 400 73065
+WARNING-----2025-03-10 13:48:23,060 log 53516 6150008832 Bad Request: /files/test_files/docx.docx
+WARNING-----2025-03-10 13:48:23,060 basehttp 53516 6200487936 "GET /files/test_imgs/img_gif.gif HTTP/1.1" 400 73098
+WARNING-----2025-03-10 13:48:23,060 basehttp 53516 6150008832 "GET /files/test_files/docx.docx HTTP/1.1" 400 73087
+WARNING-----2025-03-10 13:48:23,065 log 53516 6234140672 Bad Request: /files/test_files/doc.doc
+WARNING-----2025-03-10 13:48:23,065 basehttp 53516 6234140672 "GET /files/test_files/doc.doc HTTP/1.1" 400 73065
+INFO-----2025-03-10 13:48:35,015 autoreload 53516 8479492160 /Users/sunjie/Documents/sunj/AI/sunjPy/luffyapi/luffyapi/settings/dev.py changed, reloading.
+INFO-----2025-03-10 13:48:35,311 autoreload 55163 8479492160 Watching for file changes with StatReloader
+ERROR-----2025-03-10 13:48:38,482 exception 55163 6133297152 Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+WARNING-----2025-03-10 13:48:38,504 log 55163 6133297152 Bad Request: /
+WARNING-----2025-03-10 13:48:38,504 basehttp 55163 6133297152 "GET / HTTP/1.1" 400 73254
+ERROR-----2025-03-10 13:48:38,694 exception 55163 6150123520 Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+ERROR-----2025-03-10 13:48:38,695 exception 55163 6133297152 Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+ERROR-----2025-03-10 13:48:38,695 exception 55163 6166949888 Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+ERROR-----2025-03-10 13:48:38,695 exception 55163 6183776256 Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+ERROR-----2025-03-10 13:48:38,696 exception 55163 6200602624 Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+ERROR-----2025-03-10 13:48:38,696 exception 55163 6217428992 Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+WARNING-----2025-03-10 13:48:38,709 log 55163 6150123520 Bad Request: /files/test_files/file_txt.txt
+WARNING-----2025-03-10 13:48:38,718 log 55163 6133297152 Bad Request: /files/test_files/file_none
+WARNING-----2025-03-10 13:48:38,722 log 55163 6166949888 Bad Request: /files/test_imgs/img_jpg.jpg
+WARNING-----2025-03-10 13:48:38,733 log 55163 6183776256 Bad Request: /files/test_imgs/img_png.png
+WARNING-----2025-03-10 13:48:38,739 log 55163 6200602624 Bad Request: /files/test_imgs/img_gif.gif
+WARNING-----2025-03-10 13:48:38,739 basehttp 55163 6133297152 "GET /files/test_files/file_none HTTP/1.1" 400 73143
+WARNING-----2025-03-10 13:48:38,740 basehttp 55163 6150123520 "GET /files/test_files/file_txt.txt HTTP/1.1" 400 73176
+WARNING-----2025-03-10 13:48:38,740 basehttp 55163 6166949888 "GET /files/test_imgs/img_jpg.jpg HTTP/1.1" 400 73154
+WARNING-----2025-03-10 13:48:38,740 basehttp 55163 6183776256 "GET /files/test_imgs/img_png.png HTTP/1.1" 400 73154
+WARNING-----2025-03-10 13:48:38,741 basehttp 55163 6200602624 "GET /files/test_imgs/img_gif.gif HTTP/1.1" 400 73154
+ERROR-----2025-03-10 13:48:38,741 exception 55163 6133297152 Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+ERROR-----2025-03-10 13:48:38,742 exception 55163 6150123520 Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+WARNING-----2025-03-10 13:48:38,747 log 55163 6217428992 Bad Request: /files/test_files/pdf.pdf
+WARNING-----2025-03-10 13:48:38,754 basehttp 55163 6217428992 "GET /files/test_files/pdf.pdf HTTP/1.1" 400 73121
+WARNING-----2025-03-10 13:48:38,759 log 55163 6133297152 Bad Request: /files/test_files/docx.docx
+WARNING-----2025-03-10 13:48:38,763 log 55163 6150123520 Bad Request: /files/test_files/doc.doc
+WARNING-----2025-03-10 13:48:38,763 basehttp 55163 6133297152 "GET /files/test_files/docx.docx HTTP/1.1" 400 73143
+WARNING-----2025-03-10 13:48:38,763 basehttp 55163 6150123520 "GET /files/test_files/doc.doc HTTP/1.1" 400 73121
+ERROR-----2025-03-10 13:48:39,578 exception 55163 6133297152 Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+WARNING-----2025-03-10 13:48:39,590 log 55163 6133297152 Bad Request: /
+WARNING-----2025-03-10 13:48:39,591 basehttp 55163 6133297152 "GET / HTTP/1.1" 400 73254
+ERROR-----2025-03-10 13:48:39,761 exception 55163 6150123520 Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+ERROR-----2025-03-10 13:48:39,762 exception 55163 6133297152 Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+ERROR-----2025-03-10 13:48:39,763 exception 55163 6166949888 Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+ERROR-----2025-03-10 13:48:39,763 exception 55163 6183776256 Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+ERROR-----2025-03-10 13:48:39,765 exception 55163 6200602624 Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+ERROR-----2025-03-10 13:48:39,766 exception 55163 6217428992 Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+WARNING-----2025-03-10 13:48:39,778 log 55163 6150123520 Bad Request: /files/test_files/file_txt.txt
+WARNING-----2025-03-10 13:48:39,784 basehttp 55163 6150123520 "GET /files/test_files/file_txt.txt HTTP/1.1" 400 73176
+WARNING-----2025-03-10 13:48:39,789 log 55163 6133297152 Bad Request: /files/test_files/file_none
+WARNING-----2025-03-10 13:48:39,793 log 55163 6183776256 Bad Request: /files/test_imgs/img_png.png
+WARNING-----2025-03-10 13:48:39,797 log 55163 6200602624 Bad Request: /files/test_imgs/img_gif.gif
+WARNING-----2025-03-10 13:48:39,797 basehttp 55163 6183776256 "GET /files/test_imgs/img_png.png HTTP/1.1" 400 73154
+WARNING-----2025-03-10 13:48:39,802 log 55163 6166949888 Bad Request: /files/test_imgs/img_jpg.jpg
+WARNING-----2025-03-10 13:48:39,802 basehttp 55163 6200602624 "GET /files/test_imgs/img_gif.gif HTTP/1.1" 400 73154
+WARNING-----2025-03-10 13:48:39,802 basehttp 55163 6133297152 "GET /files/test_files/file_none HTTP/1.1" 400 73143
+WARNING-----2025-03-10 13:48:39,807 log 55163 6217428992 Bad Request: /files/test_files/pdf.pdf
+WARNING-----2025-03-10 13:48:39,807 basehttp 55163 6166949888 "GET /files/test_imgs/img_jpg.jpg HTTP/1.1" 400 73154
+WARNING-----2025-03-10 13:48:39,808 basehttp 55163 6217428992 "GET /files/test_files/pdf.pdf HTTP/1.1" 400 73121
+ERROR-----2025-03-10 13:48:39,817 exception 55163 6133297152 Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+ERROR-----2025-03-10 13:48:39,822 exception 55163 6150123520 Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+WARNING-----2025-03-10 13:48:39,831 log 55163 6133297152 Bad Request: /files/test_files/docx.docx
+WARNING-----2025-03-10 13:48:39,835 log 55163 6150123520 Bad Request: /files/test_files/doc.doc
+WARNING-----2025-03-10 13:48:39,835 basehttp 55163 6133297152 "GET /files/test_files/docx.docx HTTP/1.1" 400 73143
+WARNING-----2025-03-10 13:48:39,835 basehttp 55163 6150123520 "GET /files/test_files/doc.doc HTTP/1.1" 400 73121
+INFO-----2025-03-10 13:48:42,640 autoreload 55163 8479492160 /Users/sunjie/Documents/sunj/AI/sunjPy/luffyapi/luffyapi/settings/dev.py changed, reloading.
+INFO-----2025-03-10 13:48:42,933 autoreload 55245 8479492160 Watching for file changes with StatReloader
+INFO-----2025-03-10 13:49:14,590 autoreload 55245 8479492160 /Users/sunjie/Documents/sunj/AI/sunjPy/luffyapi/luffyapi/settings/dev.py changed, reloading.
+INFO-----2025-03-10 13:49:14,770 autoreload 55863 8479492160 Watching for file changes with StatReloader
+ERROR-----2025-03-10 13:49:16,907 exception 55863 6194393088 Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+WARNING-----2025-03-10 13:49:16,925 log 55863 6194393088 Bad Request: /
+WARNING-----2025-03-10 13:49:16,925 basehttp 55863 6194393088 "GET / HTTP/1.1" 400 73274
+ERROR-----2025-03-10 13:49:17,104 exception 55863 6211219456 Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+ERROR-----2025-03-10 13:49:17,105 exception 55863 6194393088 Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+ERROR-----2025-03-10 13:49:17,105 exception 55863 6228045824 Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+ERROR-----2025-03-10 13:49:17,108 exception 55863 6244872192 Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+ERROR-----2025-03-10 13:49:17,109 exception 55863 6261698560 Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+ERROR-----2025-03-10 13:49:17,109 exception 55863 6278524928 Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+WARNING-----2025-03-10 13:49:17,122 log 55863 6211219456 Bad Request: /files/test_files/file_txt.txt
+WARNING-----2025-03-10 13:49:17,135 log 55863 6194393088 Bad Request: /files/test_files/file_none
+WARNING-----2025-03-10 13:49:17,140 log 55863 6261698560 Bad Request: /files/test_imgs/img_gif.gif
+WARNING-----2025-03-10 13:49:17,144 log 55863 6228045824 Bad Request: /files/test_imgs/img_jpg.jpg
+WARNING-----2025-03-10 13:49:17,145 basehttp 55863 6211219456 "GET /files/test_files/file_txt.txt HTTP/1.1" 400 73196
+WARNING-----2025-03-10 13:49:17,145 basehttp 55863 6194393088 "GET /files/test_files/file_none HTTP/1.1" 400 73163
+WARNING-----2025-03-10 13:49:17,149 log 55863 6278524928 Bad Request: /files/test_files/pdf.pdf
+WARNING-----2025-03-10 13:49:17,153 log 55863 6244872192 Bad Request: /files/test_imgs/img_png.png
+WARNING-----2025-03-10 13:49:17,153 basehttp 55863 6261698560 "GET /files/test_imgs/img_gif.gif HTTP/1.1" 400 73174
+WARNING-----2025-03-10 13:49:17,154 basehttp 55863 6228045824 "GET /files/test_imgs/img_jpg.jpg HTTP/1.1" 400 73174
+ERROR-----2025-03-10 13:49:17,155 exception 55863 6194393088 Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+WARNING-----2025-03-10 13:49:17,155 basehttp 55863 6278524928 "GET /files/test_files/pdf.pdf HTTP/1.1" 400 73141
+ERROR-----2025-03-10 13:49:17,158 exception 55863 6211219456 Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+WARNING-----2025-03-10 13:49:17,158 basehttp 55863 6244872192 "GET /files/test_imgs/img_png.png HTTP/1.1" 400 73174
+WARNING-----2025-03-10 13:49:17,172 log 55863 6194393088 Bad Request: /files/test_files/docx.docx
+WARNING-----2025-03-10 13:49:17,176 log 55863 6211219456 Bad Request: /files/test_files/doc.doc
+WARNING-----2025-03-10 13:49:17,177 basehttp 55863 6194393088 "GET /files/test_files/docx.docx HTTP/1.1" 400 73163
+WARNING-----2025-03-10 13:49:17,177 basehttp 55863 6211219456 "GET /files/test_files/doc.doc HTTP/1.1" 400 73141
+INFO-----2025-03-10 13:50:08,982 autoreload 55863 8479492160 /Users/sunjie/Documents/sunj/AI/sunjPy/luffyapi/luffyapi/settings/dev.py changed, reloading.
+INFO-----2025-03-10 13:50:09,256 autoreload 56740 8479492160 Watching for file changes with StatReloader
+INFO-----2025-03-10 13:50:29,505 autoreload 57045 8479492160 Watching for file changes with StatReloader
+ERROR-----2025-03-10 13:53:53,879 exception 57045 6196588544 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING-----2025-03-10 13:53:53,889 log 57045 6196588544 Bad Request: /
+WARNING-----2025-03-10 13:53:53,889 basehttp 57045 6196588544 "GET / HTTP/1.1" 400 73107
+ERROR-----2025-03-10 13:53:54,457 exception 57045 6213414912 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+ERROR-----2025-03-10 13:53:54,458 exception 57045 6196588544 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+ERROR-----2025-03-10 13:53:54,458 exception 57045 6230241280 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+ERROR-----2025-03-10 13:53:54,459 exception 57045 6247067648 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+ERROR-----2025-03-10 13:53:54,460 exception 57045 6263894016 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+ERROR-----2025-03-10 13:53:54,460 exception 57045 6280720384 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING-----2025-03-10 13:53:54,482 log 57045 6196588544 Bad Request: /files/test_files/file_none
+WARNING-----2025-03-10 13:53:54,489 log 57045 6230241280 Bad Request: /files/test_imgs/img_jpg.jpg
+WARNING-----2025-03-10 13:53:54,489 basehttp 57045 6196588544 "GET /files/test_files/file_none HTTP/1.1" 400 73133
+WARNING-----2025-03-10 13:53:54,493 log 57045 6213414912 Bad Request: /files/test_files/file_txt.txt
+WARNING-----2025-03-10 13:53:54,498 log 57045 6247067648 Bad Request: /files/test_imgs/img_png.png
+WARNING-----2025-03-10 13:53:54,498 basehttp 57045 6230241280 "GET /files/test_imgs/img_jpg.jpg HTTP/1.1" 400 73144
+WARNING-----2025-03-10 13:53:54,502 log 57045 6263894016 Bad Request: /files/test_imgs/img_gif.gif
+ERROR-----2025-03-10 13:53:54,503 exception 57045 6196588544 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING-----2025-03-10 13:53:54,507 log 57045 6280720384 Bad Request: /files/test_files/pdf.pdf
+WARNING-----2025-03-10 13:53:54,507 basehttp 57045 6213414912 "GET /files/test_files/file_txt.txt HTTP/1.1" 400 73166
+WARNING-----2025-03-10 13:53:54,507 basehttp 57045 6247067648 "GET /files/test_imgs/img_png.png HTTP/1.1" 400 73144
+WARNING-----2025-03-10 13:53:54,507 basehttp 57045 6263894016 "GET /files/test_imgs/img_gif.gif HTTP/1.1" 400 73144
+ERROR-----2025-03-10 13:53:54,508 exception 57045 6230241280 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING-----2025-03-10 13:53:54,511 basehttp 57045 6280720384 "GET /files/test_files/pdf.pdf HTTP/1.1" 400 73111
+WARNING-----2025-03-10 13:53:54,519 log 57045 6196588544 Bad Request: /files/test_files/docx.docx
+WARNING-----2025-03-10 13:53:54,519 basehttp 57045 6196588544 "GET /files/test_files/docx.docx HTTP/1.1" 400 73133
+WARNING-----2025-03-10 13:53:54,523 log 57045 6230241280 Bad Request: /files/test_files/doc.doc
+WARNING-----2025-03-10 13:53:54,523 basehttp 57045 6230241280 "GET /files/test_files/doc.doc HTTP/1.1" 400 73111
+INFO-----2025-03-10 13:54:10,342 basehttp 57045 6196588544 "GET / HTTP/1.1" 200 12068
+WARNING-----2025-03-10 13:54:10,945 log 57045 6213414912 Not Found: /files/test_files/file_none
+WARNING-----2025-03-10 13:54:10,947 log 57045 6196588544 Not Found: /files/test_files/file_txt.txt
+WARNING-----2025-03-10 13:54:10,948 log 57045 6230241280 Not Found: /files/test_imgs/img_jpg.jpg
+WARNING-----2025-03-10 13:54:10,949 log 57045 6247067648 Not Found: /files/test_imgs/img_png.png
+WARNING-----2025-03-10 13:54:10,950 basehttp 57045 6213414912 "GET /files/test_files/file_none HTTP/1.1" 404 2255
+WARNING-----2025-03-10 13:54:10,952 log 57045 6263894016 Not Found: /files/test_imgs/img_gif.gif
+WARNING-----2025-03-10 13:54:10,952 basehttp 57045 6230241280 "GET /files/test_imgs/img_jpg.jpg HTTP/1.1" 404 2258
+WARNING-----2025-03-10 13:54:10,952 basehttp 57045 6196588544 "GET /files/test_files/file_txt.txt HTTP/1.1" 404 2264
+WARNING-----2025-03-10 13:54:10,954 log 57045 6280720384 Not Found: /files/test_files/pdf.pdf
+WARNING-----2025-03-10 13:54:10,954 basehttp 57045 6247067648 "GET /files/test_imgs/img_png.png HTTP/1.1" 404 2258
+WARNING-----2025-03-10 13:54:10,955 log 57045 6213414912 Not Found: /files/test_files/docx.docx
+WARNING-----2025-03-10 13:54:10,955 basehttp 57045 6263894016 "GET /files/test_imgs/img_gif.gif HTTP/1.1" 404 2258
+WARNING-----2025-03-10 13:54:10,956 basehttp 57045 6280720384 "GET /files/test_files/pdf.pdf HTTP/1.1" 404 2249
+WARNING-----2025-03-10 13:54:10,956 basehttp 57045 6213414912 "GET /files/test_files/docx.docx HTTP/1.1" 404 2255
+WARNING-----2025-03-10 13:54:10,965 log 57045 6196588544 Not Found: /files/test_files/doc.doc
+WARNING-----2025-03-10 13:54:10,965 basehttp 57045 6196588544 "GET /files/test_files/doc.doc HTTP/1.1" 404 2249
+WARNING-----2025-03-10 13:55:24,068 log 57045 6196588544 Not Found: /favicon.ico
+WARNING-----2025-03-10 13:55:24,068 basehttp 57045 6196588544 "GET /favicon.ico HTTP/1.1" 404 2210
+INFO-----2025-03-10 14:01:30,310 autoreload 57045 8479492160 /Users/sunjie/Documents/sunj/AI/sunjPy/luffyapi/luffyapi/settings/dev.py changed, reloading.
+INFO-----2025-03-10 14:01:30,578 autoreload 66902 8479492160 Watching for file changes with StatReloader
+INFO-----2025-03-10 14:53:32,073 autoreload 66902 8479492160 /Users/sunjie/Documents/sunj/AI/sunjPy/luffyapi/luffyapi/settings/dev.py changed, reloading.
+INFO-----2025-03-10 14:53:32,332 autoreload 24425 8479492160 Watching for file changes with StatReloader

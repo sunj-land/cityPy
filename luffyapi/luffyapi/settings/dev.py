@@ -11,10 +11,11 @@ https://docs.djangoproject.com/en/5.1/ref/settings/
 """
 
 from pathlib import Path
+import os
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
-BASE_DIR = Path(__file__).resolve().parent.parent
-
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+print(BASE_DIR)
 
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/5.1/howto/deployment/checklist/
@@ -25,21 +26,52 @@ SECRET_KEY = "django-insecure-2%1-h@8#%3&8we&6oi^+w*n@@#&7j0j4@grasqkk8u^%_(yu0+
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    "www.sunj.com",
+    "api.sunj.com",
+    "localhost"
+]
 
 
 # Application definition
 
 INSTALLED_APPS = [
+
     "django.contrib.admin",
     "django.contrib.auth",
     "django.contrib.contenttypes",
     "django.contrib.sessions",
     "django.contrib.messages",
     "django.contrib.staticfiles",
+
+    "corsheaders",
+    "rest_framework",  # 需要添加，因为你使用了
+
+
+    # 子应用
+
+
 ]
 
+# 修改 CORS_ORIGIN_WHITELIST 配置
+CORS_ORIGIN_WHITELIST = [
+    "localhost:3000"  # 需要添加 http:// 协议前缀
+    # "http://www.sunj.com:8000"  # 需要添加 http:// 协议前缀
+]
+
+# 添加 CORS_ALLOWED_ORIGINS 配置
+CORS_ALLOWED_ORIGINS = [
+    # "http://www.sunj.com:3000"  # 需要添加 http:// 协议前缀
+    # "http://www.sunj.com:8000"  # 需要添加 http:// 协议前缀
+]
+
+# 允许ajax跨域请求时携带cookie
+CORS_ALLOW_CREDENTIALS = True
+
 MIDDLEWARE = [
+    "corsheaders.middleware.CorsMiddleware",
+    "django.middleware.common.CommonMiddleware",
+
     "django.middleware.security.SecurityMiddleware",
     "django.contrib.sessions.middleware.SessionMiddleware",
     "django.middleware.common.CommonMiddleware",
@@ -75,8 +107,16 @@ WSGI_APPLICATION = "luffyapi.wsgi.application"
 
 DATABASES = {
     "default": {
-        "ENGINE": "django.db.backends.sqlite3",
-        "NAME": BASE_DIR / "db.sqlite3",
+        'ENGINE': 'django.db.backends.mysql',
+        'NAME': 'luffy',        # 数据库名称
+        'USER': 'root',            # 数据库用户名
+        'PASSWORD': '123456789',    # 数据库密码
+        'HOST': 'localhost',         # 数据库主机
+        'PORT': '3306',              # 数据库端口（默认 3306）
+        'OPTIONS': {
+            'charset': 'utf8mb4',    # 字符集
+            'init_command': "SET sql_mode='STRICT_TRANS_TABLES'",  # 严格模式
+        },
     }
 }
 
@@ -121,3 +161,81 @@ STATIC_URL = "static/"
 # https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
+
+
+LOGGING = {
+    "version": 1,
+    "disable_existing_loggers": False,
+    # 日志的格式说明
+    "formatters": {
+        "verbose": {
+            "format": "{levelname}-----{asctime} {module} {process:d} {thread:d} {message}",
+            "style": "{",
+        },
+        "simple": {
+            "format": "{levelname}------- {module} ",
+            "style": "{",
+        },
+    },
+    # 日志的过滤信息
+    "filters": {
+        # "special": {
+        #     "()": "project.logging.SpecialFilter",
+        #     "foo": "bar",
+        # },
+        # 调试信息是否过滤
+        "require_debug_true": {
+            "()": "django.utils.log.RequireDebugTrue",
+        },
+    },
+    # 日志的处理方式
+    "handlers": {
+        "console": {
+            "level": "DEBUG",
+            "filters": ["require_debug_true"],
+            "class": "logging.StreamHandler",
+            "formatter": "simple",
+        },
+        "file": {
+            # 处理日志的级别
+            "level": "INFO",
+            # 处理日志的类
+            "class": "logging.handlers.RotatingFileHandler",
+            # 日志的位置
+            "filename": os.path.join(os.path.dirname(BASE_DIR), "logs/luffy.log"),
+            # 日志文件的大小
+            "maxBytes": 300*1024*1024,
+            # 日志文件的数量
+            "backupCount": 10,
+            # 日志文件的格式
+            "formatter": "verbose"
+        }
+        # "mail_admins": {
+        #     "level": "ERROR",
+        #     "class": "django.utils.log.AdminEmailHandler",
+        #     "filters": ["special"],
+        # },
+    },
+    "loggers": {
+        "django": {
+            "handlers": ["console", "file"],
+            "propagate": True,  # 日志冒泡给其他日志系统进行处理
+        },
+        # "django.request": {
+        #     "handlers": ["mail_admins"],
+        #     "level": "ERROR",
+        #     "propagate": False,
+        # },
+        # "myproject.custom": {
+        #     "handlers": ["console", "mail_admins"],
+        #     "level": "INFO",
+        #     "filters": ["special"],
+        # },
+    },
+}
+
+
+REST_FRAMEWORK = {
+    # 异常处理
+    'EXCEPTION_HANDLER': 'luffyapi.utils.exceptions.exception_handler',
+}
